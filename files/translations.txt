@@ -1,0 +1,26 @@
+Почати гру,Start game
+Скiни, Skins
+Налаштування,Settings
+Вийти,Exit
+Назад,Back
+На весь екран,Full screen
+Музика,Music
+Звуки,Sounds
+Пауза,Pause
+Продовжити,Continue
+Головне меню,Main menu
+Гра закiнчена,Game over
+Рахунок,Score
+Заново,Restart
+Гра,Game
+Розробник,Developer
+Гра,Game
+Оберiть скiн,Choose a skin
+Iнструкцiя,Instruction
+Керування в грі відбувається,Management in the game takes place
+при натисканні клавіші,when a key is pressed
+(стрілка вгору) або,(up arrow) or
+(ліва кнопка миші),(left mouse button)
+Пауза активується при натисканні,Pause is activated when pressed
+клавіші,key
+ПРИЄМНОЇ ГРИ!,ENJOY THE GAME
